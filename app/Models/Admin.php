@@ -12,8 +12,9 @@ class Admin extends Authenticatable
 
     /**
      * Tentukan guard yang digunakan oleh model ini.
+     * Nama harus cocok dengan key di config/auth.php
      */
-    protected $guard = 'admin';
+    protected $guard = 'admin'; // <-- Perbaikan di sini
 
     /**
      * Atribut yang bisa diisi.
