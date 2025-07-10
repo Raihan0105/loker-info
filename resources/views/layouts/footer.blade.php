@@ -12,5 +12,5 @@
 <footer class="footer">
   <p>Ingin memasang informasi lowongan pekerjaan di sini?</p>
   <p>Hubungi kami melalui:</p>
-  <p><strong>Email:</strong> emailanda@gmail.com | <strong>Telepon/WhatsApp:</strong> +62 812-3456-7890</p>
+  <p><strong>Email:</strong> lokerinfo@gmail.com | <strong>Telepon/WhatsApp:</strong> +62 812-3456-7890</p>
 </footer>
